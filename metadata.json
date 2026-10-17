@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge AI",
+  "description": "AI-Powered Surplus Food Rescue and Distribution Network connecting food donors, shelters, and volunteer riders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
